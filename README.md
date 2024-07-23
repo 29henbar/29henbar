@@ -1,4 +1,4 @@
-# Hi there, I'm Dino! 👋
+# Hi there, I'm Buggs! 👋
 
 Welcome to my GitHub profile. Here you'll find a collection of projects and resources that reflect my interests and work.
 
