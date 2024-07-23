@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'logofont';
+    src: url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap')
+}
+
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #050f5d, #400000, #b73b44);
+    color: #fff;
+}
+
+/* Header styles */
+header {
+    background: linear-gradient(135deg, #9c2332, #fd4545);
+    padding: 20px 0;
+    text-align: center;
+    font-family:'Brush Script MT', 'cursive' ; /* Similar to the font style in the logo */
+    color: #fff;
+    font-size: 2.5em;
+}
+
+/* Navigation styles */
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+section h2 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2em;
+    color: #ff8989; /* Matching the lighter color from the logo */
+}
+
+section p {
+    font-size: 1.2em;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
